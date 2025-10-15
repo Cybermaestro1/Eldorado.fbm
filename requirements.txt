@@ -1,0 +1,7 @@
+pyTelegramBotAPI==4.13.0
+Flask==2.3.2
+pandas==2.1.1
+yfinance==0.2.33
+ta==0.10.2
+requests==2.31.0
+
